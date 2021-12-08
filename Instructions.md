@@ -7,3 +7,5 @@ Create folders with your exam candidate numbers (E.g. 1234567) and insert your t
 E.g. **1234567-Oxford.ipynb** and **1234567-Balearics.ipynb**
 
 Please make sure that your names are **not** in any part of the code, just your candidate number and country group as appropriate. 
+
+How to make folders: https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository 
