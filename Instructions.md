@@ -1,4 +1,4 @@
-This repo is for MSc Energy Systems 2021/22 students to upload code for Prof. Malcolm McCulloch's Energy Sources Assignment. 
+#This repo is for MSc Energy Systems 2021/22 students to upload code for Prof. Malcolm McCulloch's Energy Sources Assignment. 
 
 Create folders with your exam candidate numbers (E.g. 1234567) and insert your two Python notebook files with the names candidateCode-Oxford and candidateCode-Balearics 
 E.g. 1234567-Oxford.ipynb and 1234567-Balearics.ipynb
